@@ -22,6 +22,9 @@ SpaceBar
 Shift
 * Hold
 
+ESC
+* 일시정지
+
 ## 구현된 기능
 * 7-bag 시스템
 * 점수에 따른 난이도 조절
