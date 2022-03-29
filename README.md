@@ -18,6 +18,7 @@ SpaceBar를 통해 메뉴 선택 및 조정
 
 SpaceBar
 * Hard Drop
+* 메뉴 선택
 
 Shift
 * Hold
