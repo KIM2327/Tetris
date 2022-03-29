@@ -27,10 +27,10 @@ Shift
 
 사용된 자료 출처
 *테트리스 블럭 이미지
-** https://commons.wikimedia.org/wiki/File:Tetrominoes_IJLO_STZ_Worlds.svg
+* * https://commons.wikimedia.org/wiki/File:Tetrominoes_IJLO_STZ_Worlds.svg
 
 *Mino
-** https://namu.wiki/w/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/%EC%9A%A9%EC%96%B4
+* * https://namu.wiki/w/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/%EC%9A%A9%EC%96%B4
 
 *배경화면
-** https://pixabay.com/ko/photos/%ed%94%8c%eb%a3%a8%ec%9e%94-%eb%93%b1%eb%8c%80-%ed%94%84%eb%9e%91%ec%8a%a4-%ea%b2%bd%ea%b3%84%ed%91%9c-1758197/
+* * https://pixabay.com/ko/photos/%ed%94%8c%eb%a3%a8%ec%9e%94-%eb%93%b1%eb%8c%80-%ed%94%84%eb%9e%91%ec%8a%a4-%ea%b2%bd%ea%b3%84%ed%91%9c-1758197/
